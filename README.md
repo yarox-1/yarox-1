@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi👋
+I'm Yannik.
 
+🔭 I’m currently working on the Missing Semester Course
+🌱 I’m currently learning everything
 <!--
 **yarox-1/yarox-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
