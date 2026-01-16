@@ -7,6 +7,7 @@
 - **[MS Project]** – coming soon.
 
 ## 📚 Learning Goals
+- Deepening my knowledge in computer science.
 
 ## 📫 Contact
 - **Email:** yannik.schnell@email.uni-freiburg.de
