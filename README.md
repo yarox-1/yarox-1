@@ -1,19 +1,15 @@
-## Hi👋
-I'm Yannik.
+# 👋 Hi, I'm Yannik
 
-🔭 I’m currently working on the Missing Semester Course
-🌱 I’m currently learning everything
-<!--
-**yarox-1/yarox-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**University student in Freiburg**
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- **[qlever DateTimeSubtraction](https://github.com/yarox-1/qlever)** – description coming soon.
+- **[MS Project]** – coming soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning Goals
+
+## 📫 Contact
+- **Email:** yannik.schnell@email.uni-freiburg.de
+
+## 💡 Fun Fact
+
