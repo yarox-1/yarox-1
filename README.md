@@ -4,7 +4,7 @@
 
 ## 🚀 Current Projects
 - **[qlever DateTimeSubtraction](https://github.com/yarox-1/qlever)** – description coming soon.
-- **[MS Project]** – coming soon.
+- **[MS Project: football plots]** – description coming soon.
 
 ## 📚 Learning Goals
 - Deepening my knowledge in computer science.
